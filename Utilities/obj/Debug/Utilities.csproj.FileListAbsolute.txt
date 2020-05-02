@@ -1,0 +1,10 @@
+c:\users\laptop\documents\visual studio 2015\Projects\ExplorationRover\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+c:\users\laptop\documents\visual studio 2015\Projects\ExplorationRover\Utilities\bin\Debug\Utilities.exe.config
+c:\users\laptop\documents\visual studio 2015\Projects\ExplorationRover\Utilities\bin\Debug\Utilities.exe
+c:\users\laptop\documents\visual studio 2015\Projects\ExplorationRover\Utilities\bin\Debug\Utilities.pdb
+c:\users\laptop\documents\visual studio 2015\Projects\ExplorationRover\Utilities\obj\Debug\Utilities.exe
+c:\users\laptop\documents\visual studio 2015\Projects\ExplorationRover\Utilities\obj\Debug\Utilities.pdb
+c:\users\laptop\documents\visual studio 2015\Projects\ExplorationRover\Utilities\bin\Debug\Common.exe
+c:\users\laptop\documents\visual studio 2015\Projects\ExplorationRover\Utilities\bin\Debug\Common.pdb
+C:\Users\laptop\Documents\Visual Studio 2015\Projects\ExplorationRover\Utilities\bin\Debug\Business.exe
+C:\Users\laptop\Documents\Visual Studio 2015\Projects\ExplorationRover\Utilities\bin\Debug\Business.pdb
