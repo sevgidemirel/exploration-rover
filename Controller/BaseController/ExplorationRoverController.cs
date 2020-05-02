@@ -7,7 +7,6 @@ namespace Controller.BaseController
 {
     public class ExplorationRoverController
     {
-        //Values of R, L and M  can be overrided on custom planet if needed
         protected virtual int R { get { return 90; } }
         protected virtual int L { get { return -90; } }
         protected virtual int M { get { return 1; } }
